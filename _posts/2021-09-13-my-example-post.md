@@ -10,7 +10,9 @@ layout: post
   
   Example of ADU
      
- <img alt="ADU1" src="https://github.com/GraceLL00L/ARCH-3105/blob/c5e4c38e612e53fba986414f1fb95cef4dcd75c4/_posts/ADU1.jpg?raw=true" width="300">
+ <img alt="ADU1" src="https://github.com/GraceLL00L/ARCH-3105/blob/c5e4c38e612e53fba986414f1fb95cef4dcd75c4/_posts/ADU1.jpg?raw=true" width="500">
+ <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/e207fbd71434b5f1dc97c5b8318a418c324a5075/_posts/ADU2.jpg?raw=true" width="500">
+
 
 
  
