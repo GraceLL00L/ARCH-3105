@@ -13,18 +13,25 @@ Client: the program works for an Accessory Dwelling Unit (ADU), composed of 6 di
 
 A Hypothetic Site: A n Accessory Dwelling Unit (ADU)
 
+Flexibility: Increase the sell-on or re-let value of a building.
   
-  Reference
- 
+	High Thermal Stability
+(PTFE Fabric, EFTE)
+
+  <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/5ee41ed78de970642bf7ed1559093fb949b74adb/_posts/REF1.jpg?raw=true" width="500">
   
-  
+  	Slope: larger space, could be for solar panel
+  <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/5ee41ed78de970642bf7ed1559093fb949b74adb/_posts/REF2.jpg?raw=true" width="500">
+  <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/5ee41ed78de970642bf7ed1559093fb949b74adb/_posts/REF3.jpg?raw=true" width="500">
 
 Newly weds could not afford the house, or young family
 Higher rent in-come
 ADU as well as decoration
 Perforated board, different material
 
-  Example of ADU
+Example of ADU
+
+
 <img alt="ADU1" src="https://github.com/GraceLL00L/ARCH-3105/blob/c5e4c38e612e53fba986414f1fb95cef4dcd75c4/_posts/ADU1.jpg?raw=true" width="500">
 <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/e207fbd71434b5f1dc97c5b8318a418c324a5075/_posts/ADU2.jpg?raw=true" width="500">
 
