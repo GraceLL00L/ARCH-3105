@@ -1,21 +1,14 @@
 ---
 layout: post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Home: 
+	If the home is solid, then the person is the liquid, injecting vitality into the home, and the home is the most powerful container and refuge for the patrons. 
+	Home is the response of a small society: people pursue benefits, avoid harm, allow themselves to meet their basic physiological needs, stay away from noisy places, give their families a sense of belonging, and refuge.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Client: the program works for an Accessory Dwelling Unit (ADU), composed of 6 different family: divorced family, senior couple, a person without a job, low-income family, homeless, veterinarian. Each of members could keep a pet. There is also a stray dog shelter there.
 
-Jekyll also offers powerful support for code snippets:
+A Hypothetic Site: A n Accessory Dwelling Unit (ADU)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
