@@ -21,7 +21,11 @@ Flexibility: Increase the sell-on or re-let value of a building.
   <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/5ee41ed78de970642bf7ed1559093fb949b74adb/_posts/REF1.jpg?raw=true" width="500">
   
   	Slope: larger space, could be for solar panel
+  
+  
   <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/5ee41ed78de970642bf7ed1559093fb949b74adb/_posts/REF2.jpg?raw=true" width="500">
+  
+  
   <img alt="ADU2" src="https://github.com/GraceLL00L/ARCH-3105/blob/5ee41ed78de970642bf7ed1559093fb949b74adb/_posts/REF3.jpg?raw=true" width="500">
 
 Newly weds could not afford the house, or young family
