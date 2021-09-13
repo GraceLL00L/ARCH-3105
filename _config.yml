@@ -1,16 +1,18 @@
-title: Your awesome title
+title: Guerilla Urbanism
 author:
-  name: GitHub User
-  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  name: Grace
+  email: yixuanli@kean.edu
+description: > # this means to ignore newlines until "show_excerpts:" 
+The program works for an Accessory Dwelling Unit (ADU), composed of 6 different family--divorced family, senior couple, a person without a job, low-income family, homeless, veterinarian. Each of members could keep a pet. There is also a stray dog shelter there.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+
+theme: minima
+
+
 minima:
   date_format: "%b %-d, %Y"
 
@@ -53,7 +55,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+
 
 plugins:
  - jekyll-feed
