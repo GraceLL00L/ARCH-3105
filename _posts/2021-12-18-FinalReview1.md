@@ -32,7 +32,11 @@ Highlights:
 
 This project uses size to its advantage by creating immense differences in height, thereby creating a unique sense of community with small gardens and pathways that remind you of the intimacy of an Amsterdam hill town. With spectacular views towards the Amsterdam Canal and open spaces, it provides residences to people in all of life’s stages through its 200 housing units, including apartments of varied sizes, penthouses, detached houses, and townhouses, as well as office spaces to the city’s business and trade on two islands. 
 
+<img alt="elev" src="https://github.com/GraceLL00L/prtflo/blob/046130c9053a83bdf0ef6e9e70ad4a3b6082351d/_posts/map22222.jpg?raw=true" width="800">
+
 The apartments are placed at the top while the commercial program unfolds at the base of the building. As a result, the different horizontal layers have achieved a quality of their own: the apartments benefit from the view, sunlight, and fresh air, while the office leases merge with life on the street. This is emphasized by the shape of stacking houses which are literally hoisted up in two corners and pushed down in the middle, allowing light and air to enter the central park.
+
+<img alt="elev" src="https://github.com/GraceLL00L/prtflo/blob/046130c9053a83bdf0ef6e9e70ad4a3b6082351d/_posts/elev.jpg?raw=true" width="800">
 
 Through the investigation of Dutch entertainment interest, we design different programs both underground and on the ground, such as a coffee shop, bookstore, art gallery, theater, hand-craft workshop, museum, supermarket, drugstore, gym, retreatant, etc. This idea is mixing traditional ingredients, retail, rowhouses, and apartments in untraditional ways, designed for the public. Besides, we create a huge green area to construct a city garden for residents.
 
