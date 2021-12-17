@@ -1,18 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about.md/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+It is Grace, from Zhejiang, my chinese name is Yixuan Lin. And I major in Architecture in Michael Graves College at Wenzhou-Kean University. I loves traveling since I like to explore different cuisines, and I've been to Singapore, Paris, Kuala Lumpur and so on. But I like Shanghai most, where holds various exhibitions and I can meet different people. Due to the situation of COVID-19, I choose to stay alone at home, trying to draw of different type, including illustration and comics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to visit my website about projects what I've done in 2021 Fall studio.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
