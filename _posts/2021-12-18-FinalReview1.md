@@ -43,3 +43,5 @@ The apartments are placed at the top while the commercial program unfolds at the
 Through the investigation of Dutch entertainment interest, we design different programs both underground and on the ground, such as a coffee shop, bookstore, art gallery, theater, hand-craft workshop, museum, supermarket, drugstore, gym, retreatant, etc. This idea is mixing traditional ingredients, retail, rowhouses, and apartments in untraditional ways, designed for the public. Besides, we create a huge green area to construct a city garden for residents.
 
 We used a technology called biorock for the foundation, formed by an electrolytic accumulation of minerals dissolved in seawater. Its structure will grow indefinitely if there is a current flow. If it is damaged, it will be repaired automatically, so the building structure will become stronger over time if the floating building base is supported by biorock. This reef is cheaper than concrete or rock seawalls and breakwaters, so it’s more effective in coastal protection and beach growth. 
+
+Link of the animation: https://www.bilibili.com/video/BV1FZ4y197Lr/
