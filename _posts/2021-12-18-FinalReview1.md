@@ -28,6 +28,9 @@ Highlights:
 6. The house at the top and the house at the bottom are designed. Firstly, it provides residents with choices of Publicity and privacy. Secondly, the place at the top can play the role of wind protection and ensure the safety of the home and landscape at the bottom
 7. Fully consider the parking demand and the entry and exit routes. Motor vehicles and bicycles can be parked on the underground floor, and pedestrians can walk on the upper floor. They do not interfere with each other and coordinate the harmony and unity of the ground landscape.
 
+<img alt="Annex Garage" src="https://github.com/GraceLL00L/prtflo/blob/8941699c0ddfaae5c0e80a13dcfd4b9ca45a3e56/_posts/explode1%20%5B%E8%BD%AC%E6%8D%A2%5D_page-0001_%E7%B2%BE%E7%81%B5%E7%9C%8B%E5%9B%BE.jpg
+?raw=true" width="800">
+
 This project uses size to its advantage by creating immense differences in height, thereby creating a unique sense of community with small gardens and pathways that remind you of the intimacy of an Amsterdam hill town. With spectacular views towards the Amsterdam Canal and open spaces, it provides residences to people in all of life’s stages through its 200 housing units, including apartments of varied sizes, penthouses, detached houses, and townhouses, as well as office spaces to the city’s business and trade on two islands. 
 
 The apartments are placed at the top while the commercial program unfolds at the base of the building. As a result, the different horizontal layers have achieved a quality of their own: the apartments benefit from the view, sunlight, and fresh air, while the office leases merge with life on the street. This is emphasized by the shape of stacking houses which are literally hoisted up in two corners and pushed down in the middle, allowing light and air to enter the central park.
