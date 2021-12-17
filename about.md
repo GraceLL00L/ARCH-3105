@@ -8,3 +8,4 @@ It is Grace, from Zhejiang, my chinese name is Yixuan Lin. And I major in Archit
 
 Welcome to visit my website about projects what I've done in 2021 Fall studio.
 
+![M](https://user-images.githubusercontent.com/84894648/146597519-fc144224-f76e-41e3-ab9d-c79b52ff7284.jpg)
