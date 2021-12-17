@@ -3,6 +3,4 @@ Hi, welcome to Annex Garage, which affords you and your couple the most economic
 <img alt="Annex Garage" src="https://github.com/GraceLL00L/prtflo/blob/1c688f688045c6010d5240533ade8c5ff2ce5018/_posts/A07Poster.png?raw=true" width="600">
 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
