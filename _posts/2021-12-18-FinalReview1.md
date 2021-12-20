@@ -45,3 +45,11 @@ Through the investigation of Dutch entertainment interest, we design different p
 We used a technology called biorock for the foundation, formed by an electrolytic accumulation of minerals dissolved in seawater. Its structure will grow indefinitely if there is a current flow. If it is damaged, it will be repaired automatically, so the building structure will become stronger over time if the floating building base is supported by biorock. This reef is cheaper than concrete or rock seawalls and breakwaters, so it’s more effective in coastal protection and beach growth. 
 
 Link of the animation: https://www.bilibili.com/video/BV1FZ4y197Lr/
+
+
+Team Work Model
+<img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P8.jpg?raw=true" width="800">
+<img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P1.jpg?raw=true" width="800">
+<img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P3.jpg?raw=true" width="800">
+<img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P5.jpg?raw=true" width="800">
+<img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P6.jpg?raw=true" width="800">
