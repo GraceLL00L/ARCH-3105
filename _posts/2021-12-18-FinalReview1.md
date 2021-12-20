@@ -48,6 +48,8 @@ Link of the animation: https://www.bilibili.com/video/BV1FZ4y197Lr/
 
 
 Team Work Model
+
+
 <img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P8.jpg?raw=true" width="800">
 <img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P1.jpg?raw=true" width="800">
 <img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P3.jpg?raw=true" width="800">
