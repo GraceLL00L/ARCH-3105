@@ -32,6 +32,8 @@ Highlights:
 
 <img alt="explode" src="https://github.com/GraceLL00L/prtflo/blob/8941699c0ddfaae5c0e80a13dcfd4b9ca45a3e56/_posts/explode1%20%5B%E8%BD%AC%E6%8D%A2%5D_page-0001_%E7%B2%BE%E7%81%B5%E7%9C%8B%E5%9B%BE.jpg?raw=true" width="800">
 
+<img alt="explode" src="https://github.com/GraceLL00L/prtflo/blob/1707fb1bd362f6993d78a33648ef7dd4a4f542ca/_posts/elev.jpg?raw=true" width="800">
+
 This project uses size to its advantage by creating immense differences in height, thereby creating a unique sense of community with small gardens and pathways that remind you of the intimacy of an Amsterdam hill town. With spectacular views towards the Amsterdam Canal and open spaces, it provides residences to people in all of life’s stages through its 200 housing units, including apartments of varied sizes, penthouses, detached houses, and townhouses, as well as office spaces to the city’s business and trade on two islands. 
 
 <img alt="elev" src="https://github.com/GraceLL00L/prtflo/blob/046130c9053a83bdf0ef6e9e70ad4a3b6082351d/_posts/map22222.jpg?raw=true" width="800">
@@ -55,3 +57,4 @@ Team Work Model
 <img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P3.jpg?raw=true" width="800">
 <img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P5.jpg?raw=true" width="800">
 <img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/90e706d15c1d1cec0eccf1d5ce795501f7a280de/_posts/Model%20P6.jpg?raw=true" width="800">
+<img alt="model" src="https://github.com/GraceLL00L/prtflo/blob/1707fb1bd362f6993d78a33648ef7dd4a4f542ca/_posts/Model%20P2.jpg?raw=true" width="800">
